@@ -13,7 +13,7 @@
   "dependencies": [],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "21.0.0.0",
   "idRanges": [
     {
       "from": 50000,
@@ -27,5 +27,7 @@
     "allowDebugging": true,
     "allowDownloadingSource": false,
     "includeSourceInSymbolFile": false
-  }
+  },
+  "runtime": "10.0",
+  "target": "OnPrem"
 }
